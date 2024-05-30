@@ -1,2 +1,2 @@
-# Laravel deploy with Docker
-- 라라벨, nginx 환경 배포를 위한 Dockerfile 및 Nginx 설정파일입니다.
+# laravel-deploy-with-docker
+- Laravel, Nginx, Docker를 이용하여 배포하기 위한 설정파일입니다.
